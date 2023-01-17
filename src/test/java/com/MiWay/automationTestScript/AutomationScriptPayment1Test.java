@@ -18,6 +18,7 @@ public void paymen1() {
 	int n1 = Integer.parseInt(s2);
 	System.out.println(n1);
 	//asd
+	//lkjhgf
 	comman.clickOnrequriedTab(TabNames.PAYMENTS);
 	PaymentInformationPage paymentPage = new PaymentInformationPage(driver);
 	paymentPage.clickOnAddPaymentButton();
